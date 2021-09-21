@@ -1,4 +1,7 @@
 # PartPicker
+![FinalIcon](https://user-images.githubusercontent.com/355015/134199613-ebfa4aea-d0cf-432b-b5b0-045aca65e165.png)
+
+
 
 Welcome to the Part Picker Beta. The part picker app is a small tool designed to help people easily and record vocal performances.  
 
